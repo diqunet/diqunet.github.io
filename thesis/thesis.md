@@ -21,12 +21,12 @@ __Date__: Monday, 28 Sept 2026<br>
 __Time__: 09:00 GMT+2<br>
 __Duration__: 30 min + Q/A<br>
 __Citation__: S. Castillo, “The DiQuNET Paradigm for the Control of Quantum Processors,” Doctoral Thesis, University of Innsbruck, Dept. Mechatron., Innsbruck, Austria, 2026.<br>
-__Download__: v2.0 2026-09-29 [diqunet_thesis.pdf](./src/diqunet_thesis.pdf)
+__Download__: v2.0 2026-09-29 [diqunet_thesis.pdf](./thesis/diqunet_thesis.pdf)
 
 ## Thesis defense
 
 <video width="640" height="360" controls>
-   <source src="https://github.com/diqunet/diqunet.github.io/raw/refs/heads/main/src/diqunet_defense.mp4">
+   <source src="https://github.com/diqunet/diqunet.github.io/raw/refs/heads/main/thesis/diqunet_defense.mp4">
 </video>
 
 ## References
