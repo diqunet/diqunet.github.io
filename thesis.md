@@ -25,5 +25,5 @@ __Download__: [diqunet_thesis.pdf](./src/diqunet_thesis.pdf)
 ## Thesis defense
 
 <video width="640" height="360" controls>
-   <source src="https://github.com/diqunet/diqunet.github.io/blob/main/src/diqunet_defense.mp4">
+   <source src="https://github.com/diqunet/diqunet.github.io/raw/refs/heads/main/src/diqunet_defense.mp4">
 </video>
