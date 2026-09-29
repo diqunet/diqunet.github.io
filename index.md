@@ -12,6 +12,6 @@ description: diqunet page
 
 ## List of projects
 
-| id  | project                      | date        | description     | attachments                 |     |
-| --- | ---------------------------- | ----------- | --------------- | --------------------------- | --- |
-| 1   | Thesis: The DiQuNET paradigm | 25 Sep 2026 | Doctoral Thesis | [project page](./thesis.md) |     | 
+| id  | project                      | date        | description     | attachments                 | 
+| --- | ---------------------------- | ----------- | --------------- | --------------------------- |
+| 1   | Thesis: The DiQuNET paradigm | 25 Sep 2026 | Doctoral Thesis | [project page](./thesis.md) |
