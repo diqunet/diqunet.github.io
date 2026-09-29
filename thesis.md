@@ -15,11 +15,11 @@ DiQuNET thesis defense
 
 ## Thesis info
 
-__Thesis__: The DiQuNET paradigm for the control of quantum processors
-__Affiliation__: University of Innsbruck, AT
-__Date__: Monday, 28 Sept 2026
-__Time__: 09:00 GMT+2
-__Duration__: 30 min + Q/A
+__Thesis__: The DiQuNET paradigm for the control of quantum processors<br>
+__Affiliation__: University of Innsbruck, AT<br>
+__Date__: Monday, 28 Sept 2026<br>
+__Time__: 09:00 GMT+2<br>
+__Duration__: 30 min + Q/A<br>
 __Download__: [diqunet_thesis.pdf](./src/diqunet_thesis.pdf)
 
 ## Thesis defense
