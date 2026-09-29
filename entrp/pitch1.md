@@ -27,11 +27,11 @@ DiQuNET Pitch
 __Why? - The Vision__<br>
 The DiQuNET is the physical control implementation of quantum processors.
 
-__How? - UVP__<br>
-The DiQuNET creatively destroys the current status quo physical control of DV DT quantum processors because its patented features (methods and devices) are distinct than the current (von Neumann) control approach.
-
 __What? - The Mission__<br>
 At DiQuNET we build an IC-based scalable control system backbone for quantum processor developers to unleash the value that Quantum Computing promises for the benefit of humanity.
+
+__How? - UVP__<br>
+The DiQuNET creatively destroys the current status quo physical control of DV DT quantum processors because its patented features (methods and devices) are distinct than the current (von Neumann) control approach.
 
 ---
 
