@@ -24,8 +24,8 @@ __Download__: v2.0 2026-09-29 doi: [10.5281/zenodo.23236619](https://doi.org/10.
 
 **Grade**: 1 (excellent)
 
-**Advisors**: Prof. T. Northup (UIBK, AT) and Prof. E. Charbon (EPFL, CH)
-**Evaluator**: Prof. R. van Meter (Keio Uni, JP & Editor-in-Chief of IEEE TQE)
+**Advisors**: Prof. T. Northup (UIBK, AT) and Prof. E. Charbon (EPFL, CH)<br>
+**Evaluator**: Prof. R. van Meter (Keio Uni, JP & Editor-in-Chief of IEEE TQE)<br>
 **Tech-transfer Mentor**: Jamie Urquhart (Founder of ARM Ltd., UK)
 
 <!-- [diqunet_thesis.pdf](./thesis/diqunet_thesis.pdf) -->
